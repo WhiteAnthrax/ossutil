@@ -117,7 +117,7 @@ const (
 	RetryTimes              int    = 3
 	MaxRetryTimes           int64  = 500
 	MinRetryTimes           int64  = 1
-	Routines                int    = 5
+	Routines                int    = 3
 	MaxRoutines             int64  = 10000
 	MinRoutines             int64  = 1
 	MaxParallel             int64  = 10000
